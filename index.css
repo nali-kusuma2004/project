@@ -1,0 +1,19 @@
+body{
+  background:linear-gradient(black,white);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.root{
+  width:500px;
+  height:600px;
+  margin:100px,100px;
+  background-color:black;
+}
+.container{
+  display:grid;
+  
+}
+
+.btn{
+  background-color:white;
+}
