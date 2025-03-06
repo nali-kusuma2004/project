@@ -1,0 +1,32 @@
+body{
+    /* background:linear-gradient(black,white ); */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.root{
+    width:310px;
+    height:306px;
+    background-color:black;
+    margin:auto;
+}
+
+input{
+    text-align:right;
+    font-size:30px;
+    margin:5px 8px;
+    height:60px;
+    width:95%;
+}
+.num{
+    /* display:grid;
+    grid-template-columns:auto; */
+    margin:10px 13px;
+}
+.btn{
+    width:66px;
+    height:53px;
+    font-size:larger;
+    font-weight:bold;
+    margin:1px;
+    background-color:white;
+}
